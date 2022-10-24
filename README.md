@@ -27,7 +27,7 @@
 1. [Awesome List of resources on leading people and being a manager](https://github.com/LappleApple/awesome-leading-and-managing)
 
 ## Books
-
+> **Note:** We have hard copies of some of the books in the office 
 1. [Manager in shorts](https://www.amazon.com/MANAGER-SHORTS-shocking-management-leadership-ebook/dp/B08CPFRKRW) - Gal Zellermayer
 1. [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) - Patrick M. Lencioni
 1. [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - George Spafford and Kevin Behr
