@@ -1,6 +1,6 @@
 # Leaders Resources
 
-## בעברית
+## פודקאסטים בעברית
 
 1. [מפתחים חסרי תרבות](http://notarbut.co/)
 1. [מפתחים מחוץ לקופסא](https://podtail.com/podcast/5166ac7f/)
@@ -16,6 +16,9 @@
 
 1. [Managers tools](https://www.manager-tools.com/map-universe/manager-basics-trinity)
     * Recommended to start with [Manager Tools Basics](https://www.manager-tools.com/manager-tools-basics)
+    * Other specifict usefult feeds:
+      * [Manager Tools Hall of Fame](https://www.manager-tools.com/feeds/manager-tools-feeds#hof)
+      * [Manager Tools Management Basics](https://www.manager-tools.com/feeds/manager-tools-feeds)
 1. [Leading Snowflakes](https://pod.co/leading-snowflakes-john)
 
 ## Newsletters and Lists
@@ -29,6 +32,9 @@
 1. [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) - Patrick M. Lencioni
 1. [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - George Spafford and Kevin Behr
 1. [Empowered](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X) - Marty Cagan
+   * Chapters recomended for TL: 2 - 7
+1. [The Manager’s Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) - Camille Fournier
+   * Chapters recomended for TL: 1 - 5
 
 ## Meetups
 
@@ -59,6 +65,7 @@
     1. How Google sets goals: OKRs ([video](https://www.youtube.com/watch?v=mJB83EZtAjc), [blog](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7))
     1. [Why individual OKRs don’t work for us](https://hrblog.spotify.com/2016/08/15/our-beliefs/)
     1. Gitlab's [OKR](https://about.gitlab.com/company/okrs/)s and [KPI](https://about.gitlab.com/company/kpis/)s
+    1. Perdoo's [How to Write Great OKRs](https://www.perdoo.com/resources/ebook-how-to-write-great-okrs/) 
 1. IC
     1. [The Mysterious Journey of Becoming a Senior Engineer](https://www.youtube.com/watch?v=s2g9Kz6-Vq4&list=PLqXy0aX6TzQoSoP5hb7bX7MkcKeH96_Hs&index=3&t=1052s) - Shem Magnezi (Reversim 2021)
     1. [Architecting for a Reasonable Future](https://www.youtube.com/watch?v=1_MDwZVh99o&list=PLqXy0aX6TzQpiHuy7cP5JWXWi64Cm5ZzI&index=8&t=1548s) - Tomer Gabel (Reversim 2021)
