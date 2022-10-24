@@ -1,4 +1,4 @@
-# Team-Tech-Lead-Resources
+# Leaders Resources
 
 ## בעברית
 
