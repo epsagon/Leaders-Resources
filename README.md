@@ -47,6 +47,13 @@
 1. Reversim ([2021 homepage](https://summit2021.reversim.com/), [Youtube playlists](https://www.youtube.com/c/Reversim-summit))
 1. [Leaders in Tech](https://www.facebook.com/leadersintechconf)
 
+
+## Videos
+1. [How to Lead - YCombinator Startup School](https://www.ycombinator.com/library/6s-how-to-lead)
+1. [How to Prioritize your time - YCombinator Startup School](https://www.ycombinator.com/library/6o-how-to-prioritize-your-time)
+1. [How to Work Toghether - YCombinator Startup School](https://www.ycombinator.com/library/6n-how-to-work-together)
+
+
 ## By Topic
 
 1. One on One
